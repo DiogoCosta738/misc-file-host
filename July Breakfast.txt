@@ -1,0 +1,29 @@
+{
+ "recipeName": "breakfast",
+ "ingredients": [
+  {
+   "fdcId": 173904,
+   "quantity": 0.75
+  },
+  {
+   "fdcId": 170562,
+   "quantity": 0.07
+  },
+  {
+   "fdcId": 169414,
+   "quantity": 0.07
+  },
+  {
+   "fdcId": 170150,
+   "quantity": 0.07
+  },
+  {
+   "fdcId": 174263,
+   "quantity": 0.3
+  },
+  {
+   "fdcId": 172446,
+   "quantity": 3
+  }
+ ]
+}
