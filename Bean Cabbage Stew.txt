@@ -1,0 +1,25 @@
+{
+ "recipeName": "Bean Cabbage Stew",
+ "ingredients": [
+  {
+   "fdcId": 169246,
+   "quantity": 2
+  },
+  {
+   "fdcId": 169975,
+   "quantity": 10
+  },
+  {
+   "fdcId": 173744,
+   "quantity": 5
+  },
+  {
+   "fdcId": 169703,
+   "quantity": 2
+  },
+  {
+   "fdcId": 170000,
+   "quantity": 2
+  }
+ ]
+}

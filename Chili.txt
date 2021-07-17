@@ -1,0 +1,29 @@
+{
+ "recipeName": "Chili",
+ "ingredients": [
+  {
+   "fdcId": 173734,
+   "quantity": 5
+  },
+  {
+   "fdcId": 170427,
+   "quantity": 1.5
+  },
+  {
+   "fdcId": 170108,
+   "quantity": 1.5
+  },
+  {
+   "fdcId": 170000,
+   "quantity": 2
+  },
+  {
+   "fdcId": 169999,
+   "quantity": 1.5
+  },
+  {
+   "fdcId": 169703,
+   "quantity": 1.5
+  }
+ ]
+}
