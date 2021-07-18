@@ -1,5 +1,6 @@
 {
  "recipeName": "Bean Cabbage Stew",
+ "servings": 4,
  "ingredients": [
   {
    "fdcId": 169246,

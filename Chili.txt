@@ -1,5 +1,6 @@
 {
  "recipeName": "Chili",
+ "servings": 4,
  "ingredients": [
   {
    "fdcId": 173734,
